@@ -1,0 +1,23 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Virtual Environment (all common names)
+venv/
+ll_env/
+env/
+.venv/
+
+# Ignore Django Database
+db.sqlite3
+
+# Ignore VS Code settings (if using VS Code)
+.vscode/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore PyCharm settings (if using PyCharm)
+.idea/
+
